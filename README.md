@@ -387,7 +387,7 @@ First, you'll need a basic understanding of common principles, learning about wh
     * Database replication
     * Database partitioning
 
-### Step 2: Review the scalability article
+### ~Step 2: Review the scalability article~
 
 [Scalability](http://www.lecloud.net/tagged/scalability/chrono)
 
